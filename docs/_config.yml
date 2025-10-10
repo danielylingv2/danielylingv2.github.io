@@ -20,11 +20,6 @@
 'header_pages1':
   - index.markdown
   - about.markdown
-  - publications.markdown
-  - news.markdown
-  - gallery.markdown
-  - CV.markdown
-  - other.markdown
 
 'header_pages2':
   - 
