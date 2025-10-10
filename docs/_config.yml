@@ -27,11 +27,7 @@
   - other.markdown
 
 'header_pages2':
-  - events.markdown
-  - writing.markdown
-  - quotes.markdown
-  - podcast.markdown
-  - theses.markdown
+  - 
 
 # for RSS feed
 plugins:
