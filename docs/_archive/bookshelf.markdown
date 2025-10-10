@@ -2,7 +2,6 @@
 layout: page
 title: Bookshelf
 permalink: /bookshelf
-hide: true
 ---
 
 
