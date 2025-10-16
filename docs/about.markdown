@@ -7,7 +7,7 @@ permalink: /about
 
 <img align="right" src="/assets/Photo.jpg" class="img-responsive spacefloatedimage">
 
-I am a PhD student at the University of Cambridge's Centre for Human-Inspired Artificial Intelligence under Professor Ramit Debnath.
+I'm a PhD student in Human-Inspired Artificial Intelligence at the University of Cambridge under Professor Ramit Debnath. I am based at the Centre for Human-Inspired Artificial Intelligence (CHIA) and also part of the Collective Intelligence & Design Group (CamCID).
 
 <!--
 Rhode Island native, Princeton '16, currently a New Yorker.
