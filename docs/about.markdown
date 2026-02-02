@@ -9,7 +9,7 @@ permalink: /about
 
 I'm a PhD student in Human-Inspired Artificial Intelligence at the University of Cambridge under Professor Ramit Debnath. I am based at the Centre for Human-Inspired Artificial Intelligence (CHIA) and also part of the Collective Intelligence & Design Group (CamCID).
 
-I was previously an analyst at Morgan Stanley and early-stage VC investor at PJC focusing on AI. Representative investments (add: I worked on) include Synthesis AI, Root AI, Neurable, among others.
+I was previously an analyst at Morgan Stanley and early-stage VC investor at PJC focusing on AI. Representative investments I worked on include Synthesis AI, Root AI, Neurable, among others.
 
 <!--
 Rhode Island native, Princeton '16, currently a New Yorker.
