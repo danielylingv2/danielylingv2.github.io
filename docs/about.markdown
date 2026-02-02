@@ -9,12 +9,6 @@ permalink: /about
 
 I'm a PhD student in Human-Inspired Artificial Intelligence at the University of Cambridge under Professor Ramit Debnath. I am based at the Centre for Human-Inspired Artificial Intelligence (CHIA) and also part of the Collective Intelligence & Design Group (CamCID).
 
-I was previously an analyst at Morgan Stanley and early-stage VC investor at PJC focusing on AI. Representative investments I worked on include Synthesis AI, Root AI, Neurable, among others.
-
-I studied mathematical economics and game theory at Princeton University as an undergraduate and completed my thesis under Professor Stephen Morris. I have also completed postgraduate work at Columbia University and further academic training at Stanford University in neuroscience and mathematics and conducted applied ML research at the Irving Institute for Cancer Dynamics.
-
-I've also conducted research in applied mathematics and computational modeling at Princeton University, Brown Physics, Brown Chemistry, and the Sloan Kettering Institute for Cancer Research.
-
 <!--
 Rhode Island native, Princeton '16, currently a New Yorker.
 
