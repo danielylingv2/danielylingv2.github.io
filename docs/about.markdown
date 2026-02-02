@@ -15,7 +15,7 @@ I am currently working on novel human-inspired paradigms for AI design. Of parti
 
 I enjoy thinking about paradigm shifts, second order effects, positive feedback loops, and collective good. I like systems thinking, interdisciplinary approaches, and conceptual frameworks/abstraction.
 
-My research has been supported by the Moore Foundation, DARPA, Siemens Foundation, Intel Foundation, Society for Science, among others....
+My research has been supported by the Moore Foundation, DARPA, Siemens Foundation, Intel Foundation, Society for Science, among others.
 
 <!--
 Rhode Island native, Princeton '16, currently a New Yorker.
