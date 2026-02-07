@@ -11,11 +11,13 @@ I'm a PhD student in Human-Inspired Artificial Intelligence at the University of
 
 I was previously an analyst at Morgan Stanley and early-stage VC investor at PJC focusing on AI. Representative investments I worked on include Synthesis AI, Root AI, Neurable, among others. I've also worked on research projects at Princeton University, Brown Physics, Brown Chemistry, Sloan Kettering, among other institutions.
 
-I am currently working on novel human-inspired paradigms for AI design. Of particular interest is solving the climate crisis in the development of these paradigms. Please reach out if you'd like to collaborate!
+I am currently working on novel human-inspired paradigms for AI design. Of particular interest is solving the climate crisis in the development of these paradigms.
 
-I enjoy thinking about new technology, second-order effects, positive feedback loops, and collective good. I often like systems thinking, interdisciplinary approaches, and conceptual frameworks/abstraction.
+I enjoy thinking about new technology, second-order effects, positive feedback loops, and collective good. I often use systems thinking, interdisciplinary approaches, conceptual frameworks/abstraction, and mathematical methods.
 
 My research has been supported by the Moore Foundation, DARPA, Siemens Foundation, Intel Foundation, Society for Science, among others.
+
+Please reach out if you'd like to collaborate!
 
 <!--
 Rhode Island native, Princeton '16, currently a New Yorker.
