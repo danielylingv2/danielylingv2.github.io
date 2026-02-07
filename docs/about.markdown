@@ -13,7 +13,7 @@ I was previously an analyst at Morgan Stanley and early-stage VC investor at PJC
 
 I am currently working on novel human-inspired paradigms for AI design. Of particular interest is solving the climate crisis in the development of these paradigms.
 
-I enjoy thinking about new technology, second-order effects, positive feedback loops, and collective good. I often like systems thinking, interdisciplinary approaches, conceptual frameworks/abstraction, and mathematical methods.
+I enjoy systems thinking, interdisciplinary approaches, conceptual frameworks/abstraction, and mathematical methods. I like to think about new technology, second-order effects, positive feedback loops, and collective good.
 
 My research has been supported by the Moore Foundation, DARPA, Siemens Foundation, Intel Foundation, Society for Science, among others.
 
