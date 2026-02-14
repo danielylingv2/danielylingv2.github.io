@@ -11,7 +11,7 @@ I'm a PhD student in Human-Inspired Artificial Intelligence at the University of
 
 I was previously an analyst at Morgan Stanley and early-stage VC investor at PJC focusing on AI. Representative investments I worked on include Synthesis AI, Root AI, Neurable, among others. I've also worked on research projects at Princeton University, Brown Physics, Brown Chemistry, Sloan Kettering, among other institutions.
 
-I am currently working on novel human-inspired paradigms for AI design. Of particular interest is solving the climate crisis in the development of these paradigms.
+I am currently working on novel human-inspired paradigms for AI design. Of particular interest is solving the climate crisis in the development of these models.
 
 My research often involves systems thinking, interdisciplinary approaches, conceptual frameworks/abstraction, and mathematical methods. I enjoy thinking about new technology, second-order effects, positive feedback loops, and collective good. In my spare time, I like to play piano and write songs.
 
