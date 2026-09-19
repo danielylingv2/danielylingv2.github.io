@@ -11,9 +11,11 @@ I'm a PhD student in Human-Inspired Artificial Intelligence at the University of
 
 I was previously an analyst at Morgan Stanley and early-stage VC investor at PJC focusing on AI. Representative investments I worked on include Synthesis AI, Root AI, Neurable, among others. I've also worked on research projects at Princeton University, Brown Physics, Brown Chemistry, Sloan Kettering, among other institutions.
 
-I am currently working on novel human-inspired paradigms for AI design. Of particular interest is solving the climate crisis in the development of these models.
+My research integrates insights from human-centric and systems-based fields including economics (human behavior) and neuroscience (human intelligence) into AI design, to build and develop AI that is aligned to humanity and geared towards global good, with a particular focus on climate change mitigation as a goal.
 
-My research often involves systems thinking, interdisciplinary approaches, conceptual frameworks/abstraction, and mathematical methods. I enjoy thinking about new technology, second-order effects, positive feedback loops, and collective good. In my spare time, I like to play piano and write songs.
+I've most recently worked on multi-agent RL, belief systems in AI, and data-efficient learning, and have also worked on AI alignment, mechanism design for markets with asymmetric information, and stochastic processes in condensed matter physics.
+
+I am also working on an applied ML project focusing on transformer-based topic modeling with Professor Sriya Iyer and Professor Debnath supported by the Keynes Fund. I am also involved in an agent benchmarking and model pruning project focusing on robustness, led by Dr. Shakhlo Nematova.
 
 My research has been supported by the Moore Foundation, DARPA, Siemens Foundation, Intel Foundation, Society for Science, among others.
 
